@@ -1,6 +1,7 @@
 package com.ibm.exceptionhandling;
 @SuppressWarnings("unused")
 public class ExceptionExample {
+//Exception 
 
 	public static String getName(int id) {
 		if(id==100) {
