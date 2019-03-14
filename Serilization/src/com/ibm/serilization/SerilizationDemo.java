@@ -2,7 +2,7 @@ package com.ibm.serilization;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
-
+//serialization 
 public class SerilizationDemo {
 
 	public static void main(String[] args) throws IOException {
